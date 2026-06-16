@@ -275,6 +275,9 @@ The Random Forest Classifier successfully learned patterns from the dataset and 
 Overall, this project showcases practical skills in data analysis, machine learning, model evaluation, and deployment preparation, making it a strong end-to-end machine learning project.
 
 ---
+## streamlit app 
+https://docs.google.com/document/d/1yX87v7DbIGQEBwnuBYzECfN_sQ6yFSzLQCakNdkEhGg/edit?usp=sharing
+
 
 ## Author
 
